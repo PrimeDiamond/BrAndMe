@@ -1,3 +1,5 @@
 This is the B file.
 I am adding another line.
+Now I am adding a 3rd line.
+
 
